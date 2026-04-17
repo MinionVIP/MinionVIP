@@ -3,9 +3,11 @@
 Soy estudiante de Ingenieria en Informática en el instituto Santo Tomas de rancagua, actualmenete estoy en mi tercer semestre de mi carrera.
 
 ## 🌱 Actualmente aprendiendo
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - Buenas prácticas de organización en proyectos
-- Personalización con CSS y Bootstrap
-- Conocimiento en Python, JavaScrip y C#
+
 
 ## 📫 Contacto
 - 📨Email: anabelencq3019@gmail.com
