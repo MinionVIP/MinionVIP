@@ -1,6 +1,6 @@
 ## 👋¡Holaaa! Soy Ana Belén 
 
-Soy estudiante de Ingenieria en Informática en el instituto Santo Tomas de rancagua, actualmenete estoy en mi tercer semestre de mi carrera.
+Soy estudiante de Ingenieria en Informática en el instituto Santo Tomas de rancagua, actualmenete estoy en mi cuarto semestre de mi carrera.
 
 ## 🌱 Actualmente aprendiendo
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
